@@ -1,16 +1,22 @@
-# salon_booking_app
 
-A new Flutter project.
+# Salon Booking App - Flutter
 
-## Getting Started
+A new project with Flutter to learn more complex topics,
 
-This project is a starting point for a Flutter application.
+Today was a holiday and I woke up in the morning and had coffee and chose a general design from Figma and started to practice, see the final result and if you have a better solution or advice, I will definitely be happy to hear it.
 
-A few resources to get you started if this is your first Flutter project:
+UI From [Dribbble](https://dribbble.com/shots/10946405-Salon-Booking-App-Free)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+<img src="https://github.com/hashemsh/salon_booking_app/blob/master/1.png" width="400" height="100%">
+ 
+<img src="https://github.com/hashemsh/salon_booking_app/blob/master/2.png" width="400" height="100%">
+</p>
+
+
+
+## 🚀 About Me
+I am a developer and I really like Flutter and would like to learn more
+
