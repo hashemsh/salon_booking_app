@@ -77,12 +77,13 @@ flutter:
   fonts:
     - family: Gilroy
       fonts:
-        - asset: assets/fonts/Gilroy-Regular.ttf      
-        - asset: assets/fonts/Gilroy-Medium.ttf       
-        - asset: assets/fonts/Schyler-SemiBold.ttf
-          weight: 500    
-        - asset: assets/fonts/Schyler-Bold.ttf
-          weight: 700
+        - asset: assets/fonts/Gilroy-Regular.ttf
+        - asset: assets/fonts/Gilroy-Medium.ttf
+          weight: 300
+        - asset: assets/fonts/Gilroy-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Gilroy-Bold.ttf
+          weight: 900
   #         style: italic
   #   - family: Trajan Pro
   #     fonts:
