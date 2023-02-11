@@ -6,28 +6,28 @@ final List<HairStylist> hairStylist = [
     'Cameron Jones',
     'Super Cut Salon',
     4.8,
-    '/assets/images/1.png',
+    'assets/images/1.png',
     const Color(0xFFFFF0EB),
   ),
   HairStylist(
     'Max Robertson',
     'Rossano Ferretti Salon',
     4.7,
-    '/assets/images/2.png',
+    'assets/images/2.png',
     const Color(0xFFEBF6FF),
   ),
   HairStylist(
     'Beth Watson',
     'Neville Hair and Beauty',
     4.7,
-    '/assets/images/3.png',
+    'assets/images/3.png',
     const Color(0xFFFFF3EB),
   ),
   HairStylist(
     'Steve Rogers',
     'Marvel Hair Salon',
     4.8,
-    '/assets/images/4.png',
+    'assets/images/4.png',
     const Color(0xFFEBFFED),
   )
 ];

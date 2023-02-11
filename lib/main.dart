@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:salon_booking_app/config/constants.dart';
+import 'package:salon_booking_app/screens/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,12 +16,18 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Salon Booking App',
       theme: ThemeData(
+        fontFamily: 'Gilroy',
+        scaffoldBackgroundColor: myPrimaryColor,
+        appBarTheme: const AppBarTheme(
+          backgroundColor: myPrimaryColor,
+          elevation: 0,
+        ),
         textTheme: Theme.of(context)
             .textTheme
             .apply(bodyColor: myTextColor, fontFamily: 'Gilroy'),
         primarySwatch: Colors.blue,
       ),
-      home: Scaffold(),
+      home: HomeScreen(),
     );
   }
 }
